@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progressArc {
+  transition: stroke-dashoffset 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+              stroke 0.4s ease;
+}
+
+.modeText {
+  font-family: var(--font-body);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.timeText {
+  font-family: var(--font-mono);
+  font-size: 52px;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+.roundText {
+  font-family: var(--font-body);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+}
