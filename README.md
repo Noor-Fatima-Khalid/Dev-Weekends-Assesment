@@ -1,5 +1,5 @@
 # Dev-Weekends-Assesment
-# Pomo — Pomodoro Timer
+# Pomodoro Timer
 
 A minimal, polished Pomodoro focus timer built with React + Vite.
 
@@ -33,4 +33,4 @@ npm run preview
 
 ## Stack
 
-React 18 · React Router v6 · Vite · CSS Modules · Web Audio API · localStorage
+React 18+ · React Router v6 · Vite · CSS Modules · Web Audio API · localStorage
