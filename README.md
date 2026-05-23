@@ -2,6 +2,8 @@
 # Pomodoro Timer
 
 A minimal, polished Pomodoro focus timer built with React + Vite.
+## Luive Deplyment URL:
+https://dev-weekends-assesment.vercel.app/
 
 ## Run locally
 
